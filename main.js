@@ -17,7 +17,7 @@ let songs_list = [
         Singer : 'Diljit'
     },
     {
-        name : 'Love Story',
+        name : 'Jagan',
         Image : 'images/taylor_swift_love_story.jpg',
         Song : 'music/Taylor-Swift-Love-Story.mp3',
         Singer : 'Taylor Swift'
