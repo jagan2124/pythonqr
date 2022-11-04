@@ -11,7 +11,7 @@ console.log(song_play)
 
 let songs_list = [
     {
-        name : 'Lover',
+        name : 'Remya',
         Image : 'images/lover_image.jpg',
         Song : 'music/jagan.mp3',
         Singer : 'Diljit'
